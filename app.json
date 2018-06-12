@@ -5,16 +5,16 @@
   "repository": "https://github.com/verixx/selfbot.py",
   "env": {
     "TOKEN": {
-        "description": "Discord token used to log in",
+        "description": "NDAwMzU5MTExODM0ODYxNTY4.DZU02Q.yb7ul6YBPSIs8d97UZEp937ppI8",
         "required": true
     },
     "PREFIX": {
-      "description": "Command prefix to use.",
+      "description": "!",
       "required": true
     },
     "GITHUBTOKEN": {
       "description": "Token for github api usage.",
-      "required": true
+      "required": false
     }
   }
 }
