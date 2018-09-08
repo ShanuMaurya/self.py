@@ -5,7 +5,7 @@
   "repository": "https://github.com/verixx/selfbot.py",
   "env": {
     "TOKEN": {
-        "description": "NDAwMzU5MTExODM0ODYxNTY4.DZU02Q.yb7ul6YBPSIs8d97UZEp937ppI8",
+        "description": "jkk",
         "required": true
     },
     "PREFIX": {
