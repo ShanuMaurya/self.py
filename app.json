@@ -16,11 +16,11 @@
       "description": "Token for github api usage.",
       "required": false
     },
-    "Uskey": {
+    "uskey": {
       "description": "key for clv.",
       "required": true
     },
-      "kike": {
+      "kikey": {
       "description": "key for clv.",
       "required": true
       }
