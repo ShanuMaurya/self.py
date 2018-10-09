@@ -15,6 +15,17 @@
     "GITHUBTOKEN": {
       "description": "Token for github api usage.",
       "required": false
+    },
+    "Uskey": {
+      "description": "key for clv.",
+      "required": true
+    },
+      "kike": {
+      "description": "key for clv.",
+      "required": true
+      }
+    
+    
     }
-  }
+  
 }
