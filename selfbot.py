@@ -43,8 +43,8 @@ import io
 
 
 client = discord.Client()
-user = 'TqnZOPfoJsXVUNam'
-key = '46JYSuDaKLGZdNW1ipstUqVt5BaDVnAz'
+user = 'USO'
+key = 'KEYO'
 
 requests.post('https://cleverbot.io/1.0/create', json={'user':user, 'key':key, 'nick':'kurumi'})
 
