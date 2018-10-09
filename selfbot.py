@@ -41,7 +41,7 @@ import textwrap
 from PIL import Image
 import io
 
-user = 'Uskey'
+user = 'uskey'
 key = 'kikey'
 
 class Selfbot(commands.Bot):
